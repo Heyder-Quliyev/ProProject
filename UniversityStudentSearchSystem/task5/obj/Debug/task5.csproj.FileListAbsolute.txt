@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\task5\task5\bin\Debug\task5.exe.config
+C:\Users\Acer\Desktop\backend\task5\task5\bin\Debug\task5.exe
+C:\Users\Acer\Desktop\backend\task5\task5\bin\Debug\task5.pdb
+C:\Users\Acer\Desktop\backend\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\task5\task5\obj\Debug\task5.exe
+C:\Users\Acer\Desktop\backend\task5\task5\obj\Debug\task5.pdb

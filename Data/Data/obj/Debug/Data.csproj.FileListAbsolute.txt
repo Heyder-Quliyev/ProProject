@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\project\Data\Data\bin\Debug\Data.exe.config
+C:\Users\Acer\Desktop\project\Data\Data\bin\Debug\Data.exe
+C:\Users\Acer\Desktop\project\Data\Data\bin\Debug\Data.pdb
+C:\Users\Acer\Desktop\project\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\project\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\project\Data\Data\obj\Debug\Data.exe
+C:\Users\Acer\Desktop\project\Data\Data\obj\Debug\Data.pdb

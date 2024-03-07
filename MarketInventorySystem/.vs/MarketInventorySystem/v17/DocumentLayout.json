@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\marketinventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|solutionrelative:marketinventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|c:\\users\\acer\\desktop\\project\\marketinventorysystem\\marketinventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|solutionrelative:marketinventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\marketinventorysystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F34FB8-1A83-40CF-9116-EF3E55CB14E1}|MarketInventorySystem\\MarketInventorySystem.csproj|solutionrelative:marketinventorysystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "MarketInventorySystem\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Inventory.cs",
+              "RelativeToolTip": "MarketInventorySystem\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:51:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Product.cs",
+              "RelativeDocumentMoniker": "MarketInventorySystem\\Product.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Product.cs",
+              "RelativeToolTip": "MarketInventorySystem\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:50:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "MarketInventorySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\project\\MarketInventorySystem\\MarketInventorySystem\\Program.cs",
+              "RelativeToolTip": "MarketInventorySystem\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:50:22.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

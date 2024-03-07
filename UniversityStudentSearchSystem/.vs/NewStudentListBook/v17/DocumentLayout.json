@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A63175-2736-4A99-8EF8-5C74CC38DB93}|task5\\NewStudentList.csproj|c:\\users\\acer\\desktop\\project\\universitystudentsearchsystem\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A63175-2736-4A99-8EF8-5C74CC38DB93}|task5\\NewStudentList.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A63175-2736-4A99-8EF8-5C74CC38DB93}|task5\\NewStudentList.csproj|C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A63175-2736-4A99-8EF8-5C74CC38DB93}|task5\\NewStudentList.csproj|solutionrelative:task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\task5\\Student.cs",
+              "RelativeDocumentMoniker": "task5\\Student.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\task5\\Student.cs",
+              "RelativeToolTip": "task5\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T21:42:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\project\\UniversityStudentSearchSystem\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:03:28.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

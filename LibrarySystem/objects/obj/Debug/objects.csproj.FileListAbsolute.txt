@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\backend\objects\objects\bin\Debug\objects.exe.config
+C:\Users\Acer\Desktop\backend\objects\objects\bin\Debug\objects.exe
+C:\Users\Acer\Desktop\backend\objects\objects\bin\Debug\objects.pdb
+C:\Users\Acer\Desktop\backend\objects\objects\obj\Debug\objects.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\objects\objects\obj\Debug\objects.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\objects\objects\obj\Debug\objects.exe
+C:\Users\Acer\Desktop\backend\objects\objects\obj\Debug\objects.pdb
+C:\Users\Acer\Desktop\backend\task1\objects\bin\Debug\objects.exe.config
+C:\Users\Acer\Desktop\backend\task1\objects\bin\Debug\objects.exe
+C:\Users\Acer\Desktop\backend\task1\objects\bin\Debug\objects.pdb
+C:\Users\Acer\Desktop\backend\task1\objects\obj\Debug\objects.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\task1\objects\obj\Debug\objects.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\task1\objects\obj\Debug\objects.exe
+C:\Users\Acer\Desktop\backend\task1\objects\obj\Debug\objects.pdb

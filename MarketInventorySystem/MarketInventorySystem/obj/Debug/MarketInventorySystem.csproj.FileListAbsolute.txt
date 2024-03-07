@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\bin\Debug\MarketInventorySystem.exe.config
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\bin\Debug\MarketInventorySystem.exe
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\bin\Debug\MarketInventorySystem.pdb
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\obj\Debug\MarketInventorySystem.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\obj\Debug\MarketInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\obj\Debug\MarketInventorySystem.exe
+C:\Users\Acer\Desktop\project\MarketInventorySystem\MarketInventorySystem\obj\Debug\MarketInventorySystem.pdb
